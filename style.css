@@ -1,0 +1,16 @@
+#Identify{
+    color: red;
+    font-size: 30px;
+}
+body{
+    background-color: rgb(145, 206, 232);
+}
+#score{
+    float: left;
+    font-size: 30px;
+}
+#timer{
+    float:right;
+    margin-right: 30px;
+    font-size: 30px;
+}
